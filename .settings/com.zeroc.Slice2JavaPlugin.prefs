@@ -1,0 +1,4 @@
+///bankManagement/slice/CertSigner.ice.extraArguments=-I /home/eithne/Downloads/Ice-3.5.1/slice/Ice
+///bankManagement/slice/CertSigner.ice.includes=../../Downloads/Ice-3.5.1/slice/Ice;../../Downloads/Ice-3.5.1/cpp/include/Ice;../../Downloads/Ice-3.5.1/cpp/include
+eclipse.preferences.version=1
+extraArguments=-I C\:/Program_Files_(x86)/ZeroC/Ice-3.5.1/slice/Ice
